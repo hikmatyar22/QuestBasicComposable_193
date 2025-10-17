@@ -147,7 +147,7 @@ fun TataletakBoxColumnRow(modifier: Modifier) {
                 fontSize = 30.sp,
                 color = Color.White,
                 fontWeight = FontWeight.Bold,
-                fontFamily = FontFamily.Cursive,
+                fontFamily = FontFamily.Default,
                 modifier = Modifier.align(
                     alignment = Alignment.Center))
         }
