@@ -105,7 +105,7 @@ fun TataletakBoxColumnRow(modifier: Modifier) {
         Box(
             modifier = modifier
                 .fillMaxWidth()
-                .height(height = 110.dp)
+                .height(height = 120.dp)
                 .background(color = Color.Blue),
             contentAlignment = Alignment.Center
         ) {
