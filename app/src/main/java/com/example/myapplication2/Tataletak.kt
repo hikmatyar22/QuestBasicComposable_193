@@ -143,7 +143,7 @@ fun TataletakBoxColumnRow(modifier: Modifier) {
                 contentDescription = null,
                 contentScale = ContentScale.Fit)
 
-            Text(text = "My Music",
+            Text(text = "MY PROFILE",
                 fontSize = 50.sp,
                 color = Color.Red,
                 fontWeight = FontWeight.Bold,
