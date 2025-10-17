@@ -146,7 +146,7 @@ fun TataletakBoxColumnRow(modifier: Modifier) {
             Text(text = "MY PROFILE",
                 fontSize = 30.sp,
                 color = Color.White,
-                fontWeight = FontWeight.Bold,
+                fontWeight = FontWeight.SemiBold,
                 fontFamily = FontFamily.Default,
                 modifier = Modifier.align(
                     alignment = Alignment.Center))
